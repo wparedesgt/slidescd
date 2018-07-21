@@ -1,0 +1,184 @@
+---
+title: "Cientifico de Datos"
+author: "Utiliza las flechas <--> de tu teclado para cambiar las diapositivas"
+output: slidy_presentation
+resource_files:
+- shinyApp/ui.R
+- shinyApp/server.R
+- FertilidadUSA/server.R
+- FertilidadUSA/ui.R
+runtime: shiny
+css: wparedes01.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Que es un científico de datos?
+
+<p align="center">
+ 
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/DataScience.png?raw=true" title="Cientifico de Datos." width="300" height="150">
+<div align="center"></div>
+ 
+</p>
+
+
+El científico de datos es uno de los perfiles más demandados en la actualidad. Se entiende como una evolución del perfil de analista de datos, porque combinan las técnicas de análisis estadístico tradicional con nuevas técnicas para la recolección y análisis de grandes volúmenes de datos (big data).
+
+## Nuestro Roll en las Empresas.
+
+<p align="center">
+ 
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/dispatchinsight.png?raw=true" title="Cientifico de Datos." width="200" height="150">
+<div align="center"></div>
+ 
+</p>
+
+Nos encontramos a medio camino entre la parte operativa y la corporativa, y tratamos de reutilizar la información disponible para generar nuevas oportunidades de negocio. Diseñamos algoritmos que permiten automatizar el procesamiento de distintas fuentes de datos, e intervenimos en el diseño de herramientas de machine learning que permiten mejorar los resultados del análisis.
+
+## Nuestras Caracteristicas Personales
+
+<p align="center">
+ 
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/the-role-and-importance-of-curiosity-in-data-science-2-638.jpg?raw=true" title="Cientifico de Datos." width="400" height="200">
+<div align="center"></div>
+ 
+</p>
+
+Por naturaleza somos curiosos, autónomos, muy apasionados con la matemática, la estadística y sobre todo los datos. 
+Orientados a la acción, idealistas capaces de pensar en grande sin aceptar las inercias de las organizaciones.
+
+
+## En que area trabajan los cientificos de datos?
+
+<p align="center">
+ 
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/data-scientist-infographic.jpg?raw=true" title="Cientifico de Datos." width="500" height="200">
+<div align="center"></div>
+ 
+</p>
+
+Generalmente es un área nueva para muchas empresas y  es por eso que se espera que los Data Scientists sean capaces de guiar a las organizaciones en la incursión a una nueva forma de trabajar.
+
+No pertenecemos al área de tecnología ni debemos estar bajo su cargo, pues nos toca analizar data desde donde se genera, por lo que no se puede ser juez y parte al mismo tiempo.
+
+
+## Necesita un Cientifico de Datos?
+
+<p align="center">
+ 
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/DataAnalisis.jpg?raw=true" title="Cientifico de Datos." width="400" height="200">
+<div align="center"></div>
+ 
+</p>
+
+Para ser mejores, más fuertes y más rápidos que tus competidores necesitas hacer hablar a tus datos es decir conocer mejor tu realidad.
+De otra forma corres el riesgo de quedarte atrás y tomar peores decisiones.
+Por eso necesitas a los datos pero lo más importante, su análisis.
+
+
+## Como lo hacemos?
+
+<p align="center">
+
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/4x4modeloconocimient01.jpg?raw=true" title="Cientifico de Datos." width="400" height="200">
+<div align="center"></div>
+ 
+</p>
+
+Usamos un modelo para generar conocimiento, es decir consultamos a la parte operativa y corporativa. Posteriormente investigamos la data con la que cuenta la institución o compañía, para luego a través de las matemáticas, la estadística y herramientas informáticas, presentar una solución.
+A continuación te presentamos los 5 pasos del trabajo de un cientifico de datos:
+
+
+## Captura y Revisión de Información.
+<p align="center">
+
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/what-is-etl-1.jpg?raw=true" title="Cientifico de Datos." width="400" height="200">
+<div align="center"></div>
+ 
+</p>
+
+En la mayoría de los casos usamos un enfoque para "BIG DATA", esto implica que recolectaremos datos en tiempo real, por lotes y en tiempos determinados para generar una completa disponibilidad al momento de la consulta.
+
+## Tratamiento de los Datos.
+
+<p align="center">
+
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/data-analysis_crop.jpg?raw=true" title="Cientifico de Datos." width="400" height="200">
+<div align="center"></div>
+ 
+</p>
+
+Transformamos y limpiamos los datos en un entorno adecuado, en mi caso utilizo RStudio, pues es un lenguaje que incorpora formulas matemáticas y estadísticas
+que me permiten tener una amplia flexibilidad en el manejo de la información, para poderla adecuar a las necesidades del negocio.
+
+## Exploración y Modelización.
+
+<p align="center">
+
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/big-data.png?raw=true" title="Cientifico de Datos." width="600" height="200">
+<div align="center"></div>
+ 
+</p>
+
+
+Se estudian las relaciones y correlaciones de todas las variables encontradas, intentando obtener conclusiones más profundas y realizar a través de ello descubrimientos valiosos en los datos. El objetivo es generar un modelo predictivo con técnicas de Machine Learnig. Esto nos permite crear otro tipo de variables para representar mejor las características que deberían de aportar información al momento de la creación de los modelos.
+
+## Evaluación y Resultados.
+
+<p align="center">
+
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/DataEvaluation.jpg?raw=true" title="Cientifico de Datos." width="240" height="160">
+<div align="center"></div>
+ 
+</p>
+
+En colaboración con el cliente, determinamos una métrica que represente el objetivo. Cada modelo será evaluado con esa métrica y así determinaremos el más adecuado. Aunque generalmente es una combinación de varios modelos.
+
+## Prototipo
+
+
+<p align="center">
+
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/prototipo.png?raw=true" title="Cientifico de Datos." width="869" height="419">
+<div align="center"></div>
+ 
+</p>
+
+Validados los resultados, se pasa a producción el modelo para que pueda ser usado en tiempo real, estudiando cada uno de sus resultados, en el cual se validara el impacto y la funcionalidad dentro del negocio. Mediante un micro servicio se facilita la integración con cualquier sistema que se tenga en funcionamiento dentro del negocio o institución.
+
+## Si ha llegado hasta aquí.
+
+<p align="center">
+
+<img src="https://github.com/wparedesgt/Ciencia-de-Datos/blob/master/DCwparedes.jpg?raw=true" title="Cientifico de Datos." width="600" height="400">
+<div align="center"></div>
+ 
+</p>
+
+
+
+No dude en comunicarse conmigo para resolver cualquier duda, o para ayudarle para hacer crecer  su negocio y este sea más competitivo. No importando la ubicación de su negocio, la tecnología acorta cualquier distancia.
+ Mi nombre es William Paredes y se puede poner en contacto conmigo en los siguientes medios:
+ 
+WhatsApp (+502 47117400)
+
+Correo Electrónico: cdlatinoamerica@gmail.com
+
+Skype: wparedesgt
+
+LinkedIn: https://www.linkedin.com/in/wparedes/
+
+Twitter : @CienciadeDatos1
+
+En la siguiente diapositiva podremos ver algunos ejemplos, algunos estan en tiempo real tomando la información disponible en la red.
+
+## Visualizaciones
+
+```{r shiny_app}
+library(shiny)
+shinyAppDir(appDir = "FertilidadUSA", options = list(height = "700px"))
+```
+

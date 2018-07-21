@@ -1,0 +1,12 @@
+name: CienciadeDatos
+title: CienciadeDatos
+username:
+account: cdlat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 355751
+bundleId: 1417864
+url: https://cdlat.shinyapps.io/CienciadeDatos/
+when: 1528417410.156
+asMultiple: FALSE
+asStatic: FALSE
